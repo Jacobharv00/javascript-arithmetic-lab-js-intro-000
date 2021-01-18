@@ -90,5 +90,5 @@ function preserveDecimal(str) {
 }
 
 function preserveDecimal(str) {
-  return parseFloat('NaN')
+  return parseFloat('..NaN')
 }
