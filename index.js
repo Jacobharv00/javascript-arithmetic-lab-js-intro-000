@@ -81,7 +81,8 @@ function decrement(n) {
 //5. get the fucking code to pass!
 
 
-let 'makeInt' = 'n'
-let 'n' = 2
- parseInt('2', 10)
- 
+function makeInt(str) {
+  return parseInt(str, 10)
+}
+
+console.log(makeInt('4')
