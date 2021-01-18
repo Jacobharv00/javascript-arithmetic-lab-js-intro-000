@@ -89,4 +89,4 @@ function preserveDecimal(str) {
   return parseFloat('2.222')
 }
 
-preserveDecimal('fuckin')
+parseFloat('fuckin')
