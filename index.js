@@ -90,5 +90,5 @@ function preserveDecimal(str) {
 }
 
 function perserveDecimal(str) {
-  return parseFloat('0.000')
+  return parseFloat(ok)
 }
