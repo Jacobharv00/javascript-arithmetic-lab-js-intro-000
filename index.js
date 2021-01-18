@@ -89,6 +89,6 @@ function preserveDecimal(str) {
   return parseFloat('2.222')
 }
 
- perserveDecimal(str) {
-  return parseFloat('ok')
+ function preserveDecimal(str) {
+  return parseInt('ok')
 }
