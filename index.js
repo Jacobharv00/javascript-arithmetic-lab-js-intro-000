@@ -86,5 +86,5 @@ function makeInt(str) {
 }
 
 function preserveDecimal(str) {
-  return parseFloat('2.222', wow)
+  return parseFloat('2.222')
 }
