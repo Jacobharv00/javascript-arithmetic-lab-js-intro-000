@@ -85,4 +85,3 @@ function makeInt(str) {
   return parseInt(str, 10)
 }
 
-console.log(makeInt('4')
