@@ -84,3 +84,4 @@ function decrement(n) {
 function makeInt(str) {
   return parseInt(str, 10)
 }
+
